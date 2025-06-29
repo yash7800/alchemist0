@@ -1,0 +1,9 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C001,TechCorp Solutions,5,"T001,T002,T003",Enterprise,"""industry"": ""Technology"", ""size"": ""Large"""
+C002,Healthcare Plus,4,"T004,T005",Healthcare,"""industry"": ""Healthcare"", ""compliance"": ""HIPAA"""
+C003,StartupX,2,"T006,T007",Startup,"""stage"": ""Series A"", ""team_size"": 15"
+C004,FinanceFlow,5,"T008,T009",Finance,"""industry"": ""Finance"", ""regulations"": ""SOX"""
+C005,EduTech Academy,3,"T010,T011",Education,"""sector"": ""EdTech"", ""students"": 5000"
+C006,RetailHub,3,"T012,T013",Retail,"""channels"": ""Online"", ""products"": 1000"
+C007,ManufacturingCorp,4,"T014,T015",Manufacturing,"""employees"": 500, ""locations"": 3"
+C008,LogisticsPro,2,"T016,T017",Logistics,"""fleet_size"": 100, ""routes"": 50"
